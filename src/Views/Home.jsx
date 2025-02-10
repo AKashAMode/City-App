@@ -65,10 +65,10 @@ export const AboutComponent = () => {
             <h3 className='text-xl font-bold  pt-4'>Melghat Tiger Reserve:</h3>
             <p className='text-[18px] text-left'> A part of Project Tiger, this reserve is a haven for wildlife enthusiasts. </p>
             <div className='flex justify-evenly m-[5px] p-8'>
-            <img src={GawilGadFort} className='h-[250px] w-[300px] rounded-xl'/>
-            <img src={ChikhHillStation} className='h-[250px] w-[300px] rounded-xl'/>
-            <img src={MelghatForest} className='h-[250px] w-[300px] rounded-xl'/>
-            <img src={ChikhaFort} className='h-[250px] w-[300px] rounded-xl'/>
+            <img src={GawilGadFort} className='h-[250px] w-[270px] rounded-xl'/>
+            <img src={ChikhHillStation} className='h-[250px] w-[270px] rounded-xl'/>
+            <img src={MelghatForest} className='h-[250px] w-[270px] rounded-xl'/>
+            <img src={ChikhaFort} className='h-[250px] w-[270px] rounded-xl'/>
             </div>
             </div>
          </div>
