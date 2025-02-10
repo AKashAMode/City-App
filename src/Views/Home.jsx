@@ -71,7 +71,6 @@ export const AboutComponent = () => {
             <img src={ChikhaFort} className='h-[250px] w-[300px] rounded-xl'/>
             </div>
             </div>
-            
          </div>
 
         </div>
